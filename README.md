@@ -26,7 +26,7 @@ I developed three workflow diagrams to illustrate the proposed process:
 2. **Level 2 Service Diagram — Part A:** Details assignment review, patient contact, scheduling, escalation, and form retrieval.
 3. **Level 2 Service Diagram — Part B:** Details preparation, confirmation, readiness verification, travel, and safety.
 
-[View My Original Proposed Workflow Diagrams](03-to-be-workflow/proposed-clinical-workflow.pdf)
+[View My Original Proposed Workflow Diagrams](02-to-be-workflow/proposed-clinical-workflow.pdf)
 
 ## Skills Demonstrated
 
